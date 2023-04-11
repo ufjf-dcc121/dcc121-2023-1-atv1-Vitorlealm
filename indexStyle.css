@@ -41,8 +41,9 @@ footer {
 
 }
 
-a:hover {
+a:hover, button {
     color: red;
+    cursor: pointer;
 }
 
 li {
